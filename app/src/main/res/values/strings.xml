@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">"Tour Guide App "</string>
+
+    <string name="historical_P">"Historical places "</string>
+    <string name="copyWrite">All information in this list from wikiPedia </string>
+    <string name="hospitals">hospitals in Egypt</string>
+    <string name="restaurant">Restaurants in Egypt</string>
+    <string name="cafes">Cafes in Egypt</string>
+
+    <!-- cafes strings array-->
+    <string-array name="cafesName">
+        <item>Oras</item>
+        <item>The District</item>
+        <item>Mercado</item>
+    </string-array>
+
+    <string-array name="cafesPhone">
+        <item>01064809193</item>
+        <item>19917</item>
+        <item>0222569138</item>
+    </string-array>
+
+    <string-array name="cafesAddress">
+        <item>206 El Hegaz Street</item>
+        <item>Nasr Road, Sheraton Residences</item>
+        <item>16 Item 3B, Hegaz Street, Roxy</item>
+    </string-array>
+
+    <!-- historical strings array-->
+    <string-array name="historical_declaration">
+        <item>The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt</item>
+        <item>Abdeen Palace (Arabic: قصر عابدين\u200E\u200E) is a historic Cairo palace, and one of the official residences and the principal workplace of the President of Egypt, located above Qasr el-Nil Street in eastern Downtown Cairo, Egypt</item>
+        <item>Abydos is one of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt, of which it was the capital city. It is located about 11 kilometers (6.8 miles) west of the Nile at latitude 26 ° 10 N, near the modern Egyptian towns of el-Araba el Madfuna and al-Balyana. In the ancient Egyptian language, the city was called Abdju (bdw or AbDw). The English name Abydos comes from the Greek Ἄβυοο,, a name borrowed by Greek geographers from the unrelated city of Abydos on the Hellespont</item>
+    </string-array>
+
+    <!-- hospitals strings array-->
+    <string-array name="hospitalName">
+        <item>Heliopolis Specialized Hospital</item>
+        <item>Ain Al Hayat Hospital</item>
+        <item>El Rowad Hospital in Maadi</item>
+    </string-array>
+
+    <string-array name="hospitalPhone">
+        <item>0226343495</item>
+        <item>26214024</item>
+        <item>27040061</item>
+    </string-array>
+
+    <string-array name="hospitalAddress">
+        <item>3 Hamed Fahmy Street - Gamma El Fath - Heliopolis</item>
+        <item>16 El Nasr St., Beside El Nozha Central 2</item>
+        <item>El Gazaer St. after Carrefour Express</item>
+    </string-array>
+
+    <!-- restaurants strings array-->
+    <string-array name="restaurantName">
+        <item>Fayrouz Lebanese Restaurant</item>
+        <item>Maestro Italian Restaurant</item>
+        <item>The Tap East</item>
+    </string-array>
+
+    <string-array name="restaurantPhone">
+        <item>+20 2 24800009</item>
+        <item>+20 2 24800100</item>
+        <item>+20 106 000 0869</item>
+    </string-array>
+
+    <string-array name="restaurantAddress">
+        <item>Omar Ibn El Khattab Street, Cairo</item>
+        <item>InterContinental Cairo Citystars| Omar Ibn El Khattab St. Heliopolis 9</item>
+        <item>Cairo 11511 Mohamed Naguib Street, Cairo, Egypt</item>
+    </string-array>
+
+
+</resources>
